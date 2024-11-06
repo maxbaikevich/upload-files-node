@@ -1,0 +1,20 @@
+{
+  "name": "upload-files-node",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Upload files",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon"
+  },
+  "author": "max.baikevich@gmai.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "multer": "^1.4.3",
+    "nanoid": "^5.0.8",
+    "nodemon": "^3.1.7"
+  }
+}
+
+
